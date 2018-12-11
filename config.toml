@@ -10,7 +10,7 @@ hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 3
 
-theme                      = "tsingsound"
+theme                      = "tsinghugo"
 title                      = "小罗号口琴音乐中心"
 
 pygmentsuseclasses         = true
@@ -87,7 +87,7 @@ pygmentsuseclasses         = true
   noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
 
   # slides
-  slidesDirPath            = "themes/tsingsound/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPath            = "themes/tsinghugo/static/img/header-slides"    # path to image in local dir (path for hugo)
   slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
 
   # highlighting
